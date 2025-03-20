@@ -7,10 +7,10 @@
 	Git clone e alterei localmente.<br>
  	no Git bash: utilizei comandos: <br>
      ```git init  
-> 	git status
-> 	git add .
-> 	git commit -m""
-> 	git push origin main```
+> 	git status  
+> 	git add .  
+> 	git commit -m""  
+> 	git push origin main  ```
    	
 
 
