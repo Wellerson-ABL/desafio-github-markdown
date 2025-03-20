@@ -4,7 +4,14 @@
 
 > Obs:  Nao consigo usar o github.dev pelo site - Tecla "."
         Da um erro estranho e por isso fiz o
-	Git clone e alterei localmente.
+	Git clone e alterei localmente.<br>
+ 	no Git bash: utilizei comandos: <br>
+     ```git init<br>
+> 	git status<br>
+> 	git add .<br>
+> 	git commit -m""<br>
+> 	git push origin main<br>```
+   	
 
 
 
