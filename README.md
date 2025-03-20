@@ -53,6 +53,7 @@ __negrito e italico__
 
 ### Tabela
 <br>
+
 |Cabeçalho1|Cabeçalho 2|
 |----------|-----------|
 |TExto 1   |    Texto 2|
@@ -68,7 +69,7 @@ ________________________________________________
 
 ## Sejam Bem-Vindo ao Meu Mundo!
 
-[Meu Perfil no Github - Clique Aqui](https://github.com/Wellerson-ABL) 
+###__[Meu Perfil no Github - Clique Aqui](https://github.com/Wellerson-ABL)__ 
 
 
 ![Minha Área de Trabalho](https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png)<br>
@@ -79,7 +80,7 @@ ________________________________________________
 #### Para definir tamanho da imagem:
 `<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">`
 
-Pesquisar:
+Pesquisar:<br>
 emojis readme github<br>
 devcon.dev para links de svg
 
