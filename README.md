@@ -1,7 +1,6 @@
 # desafio-github-markdown
 > Desafio Prof. Alinne Antunnes
 
-
 > Obs:  Nao consigo usar o github.dev pelo site - Tecla "."
         Da um erro estranho e por isso fiz o
 	Git clone e alterei localmente.<br>
@@ -12,10 +11,6 @@
 > 	git commit -m""  
 > 	git push origin main  ```
    	
-
-
-
-
 
 # **Um pouco do que aprendi:**
 
@@ -61,10 +56,11 @@ __negrito e italico__
 ### Tabela
 <br>
 
-|Cabeçalho1|Cabeçalho 2|
-|----------|-----------|
-|TExto 1   |    Texto 2|
-|Texto 3   |    Texto 4|
+| Tecnologia | Status     |
+|----------  |----------- |
+| HTML       |  Andamento |
+| GIT        |  Andamento |
+| GitHub     |  Andamneto |
 
 <br>
 - [x] Tarefa 1
@@ -90,4 +86,6 @@ ________________________________________________
 Pesquisar:<br>
 emojis readme github<br>
 devcon.dev para links de svg
+
+
 
