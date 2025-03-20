@@ -4,7 +4,7 @@
 
 > Obs:  Nao consigo usar o github.dev pelo site - Tecla "."
         Da um erro estranho e por isso fiz o
-	Git clone e estou alterando localmente.
+	Git clone e alterei localmente.
 
 
 
@@ -16,12 +16,12 @@
 ## Título do Projeto
 <!--Cabeçalhos-->
 <center><h1> Sejam Bem- Vindo ao meu Mundo </h2></center>
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+# Titulo 1<br>
+## Titulo 2<br>
+### Titulo 3<br>
+#### Titulo 4<br>
+##### Titulo 5<br>
+###### Titulo 6<br>
 <h1> Titulo </h1>
 
 *italico* ou _italico_
@@ -37,14 +37,14 @@ __negrito e italico__
     1. Sublista
     2. Sublista
 
-[texto da imagem](https://praia-por-do-sol-hd-0fsttx9l0r5yq8wp.jpg)
+[texto da imagem](https://img.icons8.com/?size=100&id=46565&format=png&color=000000)
 
-![texto da imagem](https://praia-por-do-sol-hd-0fsttx9l0r5yq8wp.jpg)
+![texto da imagem](https://img.icons8.com/?size=100&id=46565&format=png&color=000000)
 
-> Crase `` para colocar codigos
+> Usar crase `` para colocar codigos
 `system.out,prinln();`
 
-> Crase ``` ``` para colocar várias linhas de códigos
+> Usar 3 Crase abrir e fechar ``` ``` para colocar várias linhas de códigos
 
 ```system.out,prinln();system.out,prinln();system.out,prinln();system.out,prinln();system.out,prinln();system.out,prinln();system.out,prinln();system.out,prinln();```
 
@@ -57,6 +57,7 @@ __negrito e italico__
 |----------|-----------|
 |TExto 1   |    Texto 2|
 |Texto 3   |    Texto 4|
+
 <br>
 - [x] Tarefa 1
 - [x] Tarefa 2
@@ -66,7 +67,8 @@ __negrito e italico__
 ________________________________________________
 
 ## Sejam Bem-Vindo ao Meu Mundo!
-[Meu Perfil no Github - Readme](https://github.com/Wellerson-ABL) 
+
+[Meu Perfil no Github - Clique Aqui](https://github.com/Wellerson-ABL) 
 
 
 ![Minha Área de Trabalho](https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png)<br>
@@ -74,12 +76,10 @@ ________________________________________________
 
 :alien: Olá Pessoal, eu sou Wellerson Almeida Bilé Loss
 
-![AWS](link da svg) 
-
-####Para definir tamanho da imagem:
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px"> 
+#### Para definir tamanho da imagem:
+`<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">`
 
 Pesquisar:
-emojis readme github
+emojis readme github<br>
 devcon.dev para links de svg
 
