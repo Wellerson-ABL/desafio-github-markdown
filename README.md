@@ -6,11 +6,11 @@
         Da um erro estranho e por isso fiz o
 	Git clone e alterei localmente.<br>
  	no Git bash: utilizei comandos: <br>
-     ```git init<br>
-> 	git status<br>
-> 	git add .<br>
-> 	git commit -m""<br>
-> 	git push origin main<br>```
+     ```git init  
+> 	git status
+> 	git add .
+> 	git commit -m""
+> 	git push origin main```
    	
 
 
